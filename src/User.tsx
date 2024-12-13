@@ -2,7 +2,7 @@ import { IconBrandGithub, IconBrandInstagram, IconBrandLinkedin, IconBrandTelegr
 
 const Info={
     name:"Aditya Kumar",
-    stack:["Software Developer", "Full Stack Developer", "Problem solver", "Coder", "Problem solver"],
+    stack:["Software Developer", "Full Stack Developer", "Problem solver", "Coder", "MERN stack Developer"],
     bio: "I'm a passionate full stack developer(MERN) currently persuing B.tech in CS specialization in AI from Techno India University , Kolkata . This is my Portfolio where you can check my latest Work. Let's connect and create something amazing together!              "
 }
 
