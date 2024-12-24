@@ -3,7 +3,7 @@ import { IconBrandGithub, IconBrandInstagram, IconBrandLinkedin, IconBrandTelegr
 const Info={
     name:"Aditya Kumar",
     stack:["Software Developer", "Full Stack Developer", "Problem solver", "Coder", "MERN stack Developer"],
-    bio: "I'm a passionate full stack developer(MERN) currently persuing B.tech in CS specialization in AI from Techno India University , Kolkata . This is my Portfolio where you can check my latest Work. Let's connect and create something amazing together!              "
+    bio: "I'm a passionate full stack developer (MERN) currently persuing B.tech in Computer science specialization in AI from Techno India University , Kolkata . This is my Portfolio where you can check my latest Work. Let's connect and create something amazing together! "
 }
 
 
@@ -18,17 +18,17 @@ const ProjectInfo = [
         github: "https://github.com/Adityakumar03/StudyNotion-Mega-project"
     },
     {
-        title: "Hirrd - Job Portal",
-        desc: "Travel Tracker is a full-stack web application that allows users to track their travel experiences and share them with others. The front end is built with React, Bootstrap, while the back end uses Node.js, Express, and PostgresSQL. Users can create an account, log in, add new trips, and view their past trips on a map. The app features a clean, modern design with interactive maps and a user-friendly interface. Travel Tracker combines functionality with style, making it easy and enjoyable to record and share travel memories.",
-        image: "Hirrd.png",
+        title: "Reflct - Journal App",
+        desc: "Reflct is a full stack Journal app built using ReactJs, Tailwind CSS and Shadcn UI that enables user to create , edit and publish Journal . Ability to create entries in Rich-text editor . Features like Analytics Dashboard which gives us the statistics and newline summary of the mood based on journal entries .",
+        image: "Reflct.png",
         live: true,
         technologies: ["ReactJS", "Tailwind CSS", "Supabase", "Clerk Authentication", "Shadcn UI"],
-        link: "https://hirrd.vercel.app/",
-        github: "https://github.com/Adityakumar03/Hirrd"
+        link: "https://reflct-six.vercel.app/",
+        github: "https://github.com/Adityakumar03/Reflct"
     },
     {
         title: "Klimate - Weather App",
-        desc: "Facebook Clone is a full-stack web application that replicates the core features of Facebook, including user authentication, posting, and commenting. The front end is built with React, TailwinCSS, Tabler-Icons, Mantine and Firebase, while the back end uses Firebase for user authentication and data storage. Users can create an account, log in, post updates, and comment on posts. The app features real-time updates, so users can see new comments as they are posted. Facebook Clone provides a seamless user experience with a clean, modern design and intuitive functionality.",
+        desc: "Klimate is a full stack weather app built using React JS with Tailwind CSS, Tanstack Query, Tyoescript, Recharts, Openweather API and Shadcn UI Tutorial . Features like current weather current weather location tracking . A special features like 24-hour graphical forecasts using OpenWeather API and Recharts",
         image: "Klimate.png",
         live: true,
         technologies: ["ReactJS", "Tailwind CSS", "Tanstack Query", "Typescript", "Recharts", "Openweather API", "Shadcn UI"],
@@ -37,7 +37,7 @@ const ProjectInfo = [
     },
     {
         title: "To-do React App",
-        desc: "Ekart is a modern, fully responsive e-commerce platform built using React, TailwindCSS, Heroicons, and HeadlessUI, offering a seamless shopping experience across all devices. It features secure user authentication with login, registration, and logout functionalities. Users can add items to a wishlist or remove them, search for specific products, and add them to a shopping cart for purchase. The checkout process includes form validation for address and payment information, ensuring accuracy and security. After purchase, users can view their order history in the Orders section. Ekart combines robust functionality with a sleek, intuitive design, making online shopping effortless and enjoyable.",
+        desc: "To-do App built using HTML , CSS , Javascript and React JS . User can add task and then edit task as well and if the task get completed , user can  mark task as completed . The task is being saved on Local storage and Browser is fetching data from Local storage ",
         image: "Todo.png",
         live: false,
         technologies: ["Javascript", "ReactJS", "Redux"],
@@ -46,7 +46,7 @@ const ProjectInfo = [
     },
     {
         title: "Password Generator",
-        desc: "Facebook Clone is a full-stack web application that replicates the core features of Facebook, including user authentication, posting, and commenting. The front end is built with React, TailwinCSS, Tabler-Icons, Mantine and Firebase, while the back end uses Firebase for user authentication and data storage. Users can create an account, log in, post updates, and comment on posts. The app features real-time updates, so users can see new comments as they are posted. Facebook Clone provides a seamless user experience with a clean, modern design and intuitive functionality.",
+        desc: "A website called Password Genertor , which creates random passowrd of length between 1 - 20 . After creaating password , user can copy that password and paste anywhere . The user can have multiple choice to create password of their wish [Includes Upper case , Includes Lower case , Includes numbers , Includes symbol]",
         image: "PWGenerator.png",
         live: false,
         technologies: ["HTML", "CSS", "Javascript",],
@@ -56,7 +56,7 @@ const ProjectInfo = [
     
     {
         title: "Calculator",
-        desc: "Travel Tracker is a full-stack web application that allows users to track their travel experiences and share them with others. The front end is built with React, Bootstrap, while the back end uses Node.js, Express, and PostgresSQL. Users can create an account, log in, add new trips, and view their past trips on a map. The app features a clean, modern design with interactive maps and a user-friendly interface. Travel Tracker combines functionality with style, making it easy and enjoyable to record and share travel memories.",
+        desc: "A simple web based Calculator that has ability to do all the fundamental calculations like add, substract , multiply , divide and more ... ",
         image: "Calculator.png",
         live: false,
         technologies: ["HTML", "CSS", "Javascript",],
@@ -99,7 +99,7 @@ const ExperienceInfo = [
         role: "React JS Developer",
         company: "Celebal Technologies",
         date: "May 2024 - July 2024",
-        desc: "I led software development with Spring Boot, React, and Angular, creating scalable microservices and interfaces. I optimized performance by integrating frontend and backend, and enhanced security with RESTful APIs. Collaborating in agile teams, I fostered innovation and efficiency for top-quality solutions.",
+        desc: "I led software development with React JS creating scalable microservices and interfaces. I optimized performance by integrating frontend , and enhanced security with RESTful APIs. Collaborating in agile teams, I fostered innovation and efficiency for top-quality solutions.",
         skills: ["HTML5", "CSS3", "JavaScript", "React JS", "Vercel"]
     }
 ]
@@ -109,10 +109,8 @@ const Slugs = [
     "javascript",
     "react",
     "angular",
-    "android",
     "html5",
     "css3",
-    "springboot",
     "mongodb",
     "selenium",
     "nodedotjs",
@@ -133,7 +131,6 @@ const Slugs = [
     "github",
     "gitlab",
     "visualstudiocode",
-    "androidstudio",
     "sonarqube",
     "figma",
 ];
