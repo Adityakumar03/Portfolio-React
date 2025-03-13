@@ -3,19 +3,19 @@ import { IconBrandGithub, IconBrandInstagram, IconBrandLinkedin, IconBrandTelegr
 const Info={
     name:"Aditya Kumar",
     stack:["Software Developer", "Full Stack Developer", "Problem solver", "Coder", "MERN stack Developer"],
-    bio: "I'm a passionate full stack developer (MERN) currently persuing B.tech in Computer science specialization in AI from Techno India University , Kolkata . This is my Portfolio where you can check my latest Work. Let's connect and create something amazing together! "
+    bio: "I'm a passionate Full stack developer (MERN) currently persuing B.tech in Computer science specialization in AI from Techno India University , Kolkata . This is my Portfolio where you can check my latest Work.  "
 }
 
 
 const ProjectInfo = [
     {
-        title: "StudyNotion Ed-tech App",
-        desc: "StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. StudyNotion aims to provide: A seamless and interactive learning experience for students, making education more accessible and engaging. A platform for instructors to showcase their expertise and connect with learners across the globe",
+        title: "StudyNotion EdTech App",
+        desc: "StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. StudyNotion aims to provide: A seamless and interactive learning experience for students, making education more accessible and engaging. A platform for instructors to showcase their expertise and connect with learners across the globe",
         image: "StudyNotion.png",
         live: true,
         technologies: ["ReactJS", "ExpressJS", "NodeJS", "MongoDB",],
-        link: "https://study-notion-mega-project-seven.vercel.app/",
-        github: "https://github.com/Adityakumar03/StudyNotion-Mega-project"
+        link: "https://studynotion-frontend-kohl-eight.vercel.app/",
+        github: "https://github.com/Adityakumar03/StudyNotion-EdTechApp"
     },
     {
         title: "Reflct - Journal App",
@@ -89,9 +89,9 @@ const SkillInfo = [
 const socialLinks = [
     { link: "https://github.com/Adityakumar03", icon: IconBrandGithub },
     { link: "https://www.linkedin.com/in/itsmeadityakumar/", icon: IconBrandLinkedin },
-    { link: "https://www.instagram.com/imaditya.shandilya/", icon: IconBrandInstagram }, 
+    { link: "https://www.instagram.com/iamaditya.jha/", icon: IconBrandInstagram }, 
     { link: "https://www.geeksforgeeks.org/user/adityakumar03/", icon: IconCode },
-    { link: " https://t.me/Imaditya_shandilya", icon: IconBrandTelegram }
+    { link: " https://t.me/iamaditya_jha", icon: IconBrandTelegram }
 ];
 
 const ExperienceInfo = [
